@@ -14,7 +14,7 @@ as well as to learn about CI/CD practices.
 [Available here](https://github.com/MiguelGuthridge/Universal-Controller-Script)
 
 ### VC Compiler
-A compiler that converts a c-like language VC into Jasmin Assembly and Java bytecode. As this was a university assignment, 
+A compiler that converts a C-like language called VC into Jasmin Assembly and Java bytecode. As this was a university assignment, 
 this code is private. I will give access to potential employers on request.
 
 ### Equator
