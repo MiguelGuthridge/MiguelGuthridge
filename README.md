@@ -11,6 +11,10 @@ Here's some of the projects I'm proudest of:
 An advanced application used to link any MIDI controller to any DAW plugin, using FL Studio's 
 Python API. I made this project to help improve the workflow of composing in FL Studio.
 
+### [FL Studio API Stubs](https://github.com/MiguelGuthridge/FL-Studio-API-Stubs)
+An emulation of FL Studio's Python API, designed to help people design, write and test code that
+interacts with FL Studio.
+
 ### VC Compiler
 A compiler written in Java that converts a C-like language into Java bytecode. This code is private, 
 but accessible to potential employers on request.
