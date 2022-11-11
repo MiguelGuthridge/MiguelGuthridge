@@ -37,5 +37,10 @@ programming.
 
 ### [The F*ck](https://github.com/nvbn/thefuck)
 A magnificent app which corrects your previous console command.
-* [Add a correction](https://github.com/nvbn/thefuck/pull/1302) for when you paste your git URL 
+* [Add a rule](https://github.com/nvbn/thefuck/pull/1302) for when you paste your git URL 
   but forget to add the `git clone` to it.
+
+### [Piccolo ORM](https://github.com/piccolo-orm/piccolo)
+A fast, user friendly ORM and query builder which supports asyncio.
+* [Fix a bug where a bad error message was given](https://github.com/piccolo-orm/piccolo/pull/673)
+* I plan on contributing more to this project when I have more time
