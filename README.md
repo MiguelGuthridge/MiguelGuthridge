@@ -23,6 +23,11 @@ but accessible to potential employers on request.
 A complex dungeion crawler game written in Java with some friends for a university assignment. 
 This code is private, but accessible to potential employers on request.
 
+### [Jestspectation](https://github.com/MiguelGuthridge/Jestspectation)
+A collection of tools that can be used to provide advanced pattern matching of Python's built-in 
+objects, which can massively improve the readability of tests. They also provide highly-detailed
+error messages for cases where comparisons fail, including a Pytest plugin.
+
 ### [Equator](https://github.com/MiguelGuthridge/Equator)
 A symbolic calculator capable of solving complex simultaneous equations, and presenting results in 
 a clear, logical format. I made this project to learn about syntax parsing and mathematical 
