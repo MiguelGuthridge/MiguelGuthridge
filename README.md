@@ -11,6 +11,10 @@ Here's some of the projects I'm proudest of:
 An advanced application used to link any MIDI controller to any DAW plugin, using FL Studio's
 Python API. I made this project to help improve the workflow of composing in FL Studio.
 
+### [Ensemble Forum](https://github.com/EnsembleForum/Ensemble#readme)
+An education-focused web forum, designed for teachers and students alike. I worked on this 
+alongside 4 other team members as my capstone project at UNSW.
+
 ### [FL Studio API Stubs](https://github.com/MiguelGuthridge/FL-Studio-API-Stubs)
 An emulation of FL Studio's Python API, designed to help people design, write and test code that
 interacts with FL Studio.
@@ -28,11 +32,6 @@ A collection of tools that can be used to provide advanced pattern matching of P
 objects, which can massively improve the readability of unit tests that check lots of deeply-nested
 data. It also provides highly-detailed error messages for cases where comparisons fail, including a
 Pytest plugin.
-
-### [Equator](https://github.com/MiguelGuthridge/Equator)
-A symbolic calculator capable of solving complex simultaneous equations, and presenting results in
-a clear, logical format. I made this project to learn about syntax parsing and mathematical
-programming.
 
 # Other projects I've contributed to
 
