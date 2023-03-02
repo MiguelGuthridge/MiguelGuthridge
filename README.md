@@ -1,7 +1,5 @@
 ## Hi, I'm Miguel Guthridge!
 
-He/him
-
 I love music and programming, and I'm passionate about making cool stuff to do cool things.
 
 # My Projects
