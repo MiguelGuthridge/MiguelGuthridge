@@ -2,6 +2,11 @@
 
 I love music and programming, and I'm passionate about making cool stuff to do cool things.
 
+![My user statistics](https://raw.githubusercontent.com/MiguelGuthridge/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MiguelGuthridge/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![My language statistics](https://raw.githubusercontent.com/MiguelGuthridge/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MiguelGuthridge/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 # My Projects
 Here's some of the projects I'm proudest of:
 
